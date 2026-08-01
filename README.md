@@ -77,8 +77,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.hackclub.dev/api?username=CyberShubhs&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-<img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=CyberShubhs&layout=compact&langs_count=8&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
+<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=CyberShubhs&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
+<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=CyberShubhs&layout=compact&langs_count=8&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
 
 <img height="170" src="https://streak-stats.demolab.com?user=CyberShubhs&hide_border=true&background=0d1117&stroke=00f7ff&ring=ff00e5&fire=ff00e5&currStreakLabel=00f7ff&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=ffffff&dayLabels=00f7ff" alt="streak" />
 
@@ -105,10 +105,10 @@
 
 <div align="center">
 
-<a href="https://github.com/CyberShubhs/Personal_portfolio"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=CyberShubhs&repo=Personal_portfolio&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117" alt="portfolio repo" /></a>
-<a href="https://github.com/CyberShubhs/realestate_property_advisor"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=CyberShubhs&repo=realestate_property_advisor&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117" alt="real estate repo" /></a>
-<a href="https://github.com/CyberShubhs/copy-paste-converter-hub"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=CyberShubhs&repo=copy-paste-converter-hub&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117" alt="converter hub repo" /></a>
-<a href="https://github.com/CyberShubhs/Kahoot-Answer-Bot"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=CyberShubhs&repo=Kahoot-Answer-Bot&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117" alt="kahoot bot repo" /></a>
+<a href="https://github.com/CyberShubhs/Personal_portfolio"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=CyberShubhs&repo=Personal_portfolio&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117" alt="portfolio repo" /></a>
+<a href="https://github.com/CyberShubhs/realestate_property_advisor"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=CyberShubhs&repo=realestate_property_advisor&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117" alt="real estate repo" /></a>
+<a href="https://github.com/CyberShubhs/copy-paste-converter-hub"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=CyberShubhs&repo=copy-paste-converter-hub&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117" alt="converter hub repo" /></a>
+<a href="https://github.com/CyberShubhs/Kahoot-Answer-Bot"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=CyberShubhs&repo=Kahoot-Answer-Bot&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117" alt="kahoot bot repo" /></a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="line" />
 
