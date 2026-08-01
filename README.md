@@ -12,17 +12,19 @@
   <img src="https://komarev.com/ghpvc/?username=CyberShubhs&style=for-the-badge&color=ff00e5&label=VISITORS" alt="views" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Neon%20line.gif" width="100%" alt="line" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="line" />
 
 </div>
 
 ## `> cat about_me.json`
 
+<img align="right" width="270" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="coder gif" />
+
 ```jsonc
 {
   "name":      "Shubham Singla",
   "alias":     "CyberShubhs",
-  "location":  "Melbourne, Australia \uD83C\uDDE6\uD83C\uDDFA",
+  "location":  "Melbourne, Australia",
   "focus":     ["Cybersecurity", "Web Development", "Machine Learning"],
   "day_job":   ["IT Support", "Network Support"],
   "building":  "shubhamsingla.tech + a few side quests",
@@ -32,8 +34,10 @@
 }
 ```
 
+<br clear="right" />
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Neon%20line.gif" width="100%" alt="line" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="line" />
 </div>
 
 ## `> ls tech_stack/`
@@ -65,7 +69,7 @@
 <img src="https://img.shields.io/badge/Wazuh-005C99?style=flat-square&logo=wazuh&logoColor=white" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Neon%20line.gif" width="100%" alt="line" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="line" />
 
 </div>
 
@@ -73,14 +77,17 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CyberShubhs&show_icons=true&count_private=true&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberShubhs&layout=compact&hide_border=true&langs_count=8&title_color=00f7ff&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
+<img height="170" src="https://github-readme-stats.hackclub.dev/api?username=CyberShubhs&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
+<img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=CyberShubhs&layout=compact&langs_count=8&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
 
-<img height="165" src="https://streak-stats.demolab.com?user=CyberShubhs&hide_border=true&background=0d1117&stroke=00f7ff&ring=ff00e5&fire=ff00e5&currStreakLabel=00f7ff&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=ffffff&dayLabels=00f7ff" alt="streak" />
+<img height="170" src="https://streak-stats.demolab.com?user=CyberShubhs&hide_border=true&background=0d1117&stroke=00f7ff&ring=ff00e5&fire=ff00e5&currStreakLabel=00f7ff&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=ffffff&dayLabels=00f7ff" alt="streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberShubhs&bg_color=0d1117&color=00f7ff&line=ff00e5&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="activity graph" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=CyberShubhs&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%" alt="trophies" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberShubhs&theme=github_dark" alt="repos per language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyberShubhs&theme=github_dark" alt="most commit language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberShubhs&theme=github_dark" alt="profile stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberShubhs&theme=github_dark&utcOffset=10" alt="productive time" />
 
 ### `> snake --eat contributions`
 
@@ -90,7 +97,7 @@
   <img src="https://raw.githubusercontent.com/CyberShubhs/CyberShubhs/output/github-snake.svg" alt="snake animation" width="100%" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Neon%20line.gif" width="100%" alt="line" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="line" />
 
 </div>
 
@@ -98,12 +105,12 @@
 
 <div align="center">
 
-<a href="https://github.com/CyberShubhs/Personal_portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberShubhs&repo=Personal_portfolio&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117" alt="portfolio repo" /></a>
-<a href="https://github.com/CyberShubhs/realestate_property_advisor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberShubhs&repo=realestate_property_advisor&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117" alt="real estate repo" /></a>
-<a href="https://github.com/CyberShubhs/copy-paste-converter-hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberShubhs&repo=copy-paste-converter-hub&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117" alt="converter hub repo" /></a>
-<a href="https://github.com/CyberShubhs/Kahoot-Answer-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberShubhs&repo=Kahoot-Answer-Bot&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117" alt="kahoot bot repo" /></a>
+<a href="https://github.com/CyberShubhs/Personal_portfolio"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=CyberShubhs&repo=Personal_portfolio&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117" alt="portfolio repo" /></a>
+<a href="https://github.com/CyberShubhs/realestate_property_advisor"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=CyberShubhs&repo=realestate_property_advisor&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117" alt="real estate repo" /></a>
+<a href="https://github.com/CyberShubhs/copy-paste-converter-hub"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=CyberShubhs&repo=copy-paste-converter-hub&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117" alt="converter hub repo" /></a>
+<a href="https://github.com/CyberShubhs/Kahoot-Answer-Bot"><img src="https://github-readme-stats.hackclub.dev/api/pin/?username=CyberShubhs&repo=Kahoot-Answer-Bot&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117" alt="kahoot bot repo" /></a>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Neon%20line.gif" width="100%" alt="line" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="line" />
 
 </div>
 
