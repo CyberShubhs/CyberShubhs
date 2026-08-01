@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:5f2c82,100:00f7ff&height=210&section=header&text=Shubham%20Singla&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Cybersecurity%20%C2%B7%20Web%20Dev%20%C2%B7%20Machine%20Learning&descAlignY=54&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:5f2c82,100:00f7ff&height=210&section=header&text=Shubham%20Singla&fontSize=58&fontColor=ffffff&fontAlignY=34&desc=Cybersecurity%20%C2%B7%20Web%20Dev%20%C2%B7%20Machine%20Learning&descAlignY=54&descSize=18" width="100%" alt="header" />
 
 <a href="https://shubhamsingla.tech/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=%24+whoami;Cybersecurity+Enthusiast+%F0%9F%94%90;Full-Stack+Web+Developer+%F0%9F%92%BB;Machine+Learning+Tinkerer+%F0%9F%A4%96;IT+%26+Network+Support+%F0%9F%9B%A0%EF%B8%8F;Building+from+Melbourne%2C+AU+%F0%9F%8C%8F" alt="typing" />
