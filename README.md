@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:5f2c82,100:00f7ff&height=210&section=header&text=Shubham%20Singla&fontSize=58&fontColor=ffffff&fontAlignY=34&desc=Cybersecurity%20%C2%B7%20Web%20Dev%20%C2%B7%20Machine%20Learning&descAlignY=54&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:5f2c82,100:00f7ff&height=210&section=header&text=Shubham%20Singla&fontSize=58&fontColor=ffffff&fontAlignY=34&desc=SOC%20Team%20Leader%20%C2%B7%20Cybersecurity%20Professional&descAlignY=54&descSize=18" width="100%" alt="Shubham Singla — SOC Team Leader and Cybersecurity Professional" />
 
 <a href="https://shubhamsingla.tech/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=%24+whoami;Cybersecurity+Enthusiast+%F0%9F%94%90;Full-Stack+Web+Developer+%F0%9F%92%BB;Machine+Learning+Tinkerer+%F0%9F%A4%96;IT+%26+Network+Support+%F0%9F%9B%A0%EF%B8%8F;Building+from+Melbourne%2C+AU+%F0%9F%8C%8F" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=%24+whoami;SOC+Team+Leader+at+NAB;Founder%2C+Yarra+Secure;Building+ScamChecker+%26+ForgeLift;Studying+for+CompTIA+Security%2B;Based+in+Melbourne%2C+Australia" alt="SOC Team Leader at NAB, Founder of Yarra Secure, and builder of security and mobile products" />
 </a>
 
 <p>
@@ -23,18 +23,33 @@
 ```jsonc
 {
   "name":      "Shubham Singla",
-  "alias":     "CyberShubhs",
-  "location":  "Melbourne, Australia",
-  "focus":     ["Cybersecurity", "Web Development", "Machine Learning"],
-  "day_job":   ["IT Support", "Network Support"],
-  "building":  "shubhamsingla.tech + a few side quests",
-  "learning":  ["Offensive Security", "Cloud", "LLM tooling"],
-  "ask_me_about": ["security", "javascript", "python", "networking"],
+  "also_known_as": ["Sam Singla", "CyberShubhs"],
+  "location":  "Melbourne, VIC, Australia",
+  "focus":     ["Security Operations", "Incident Response", "Vulnerability Assessment"],
+  "day_job":   "SOC Team Leader at NAB",
+  "founder":   "Yarra Secure",
+  "building":  ["ScamChecker", "ForgeLift", "ConverterHub"],
+  "learning":  "CompTIA Security+ (SY0-701) — in progress",
+  "education": "Bachelor of Networking (Cybersecurity), Melbourne Institute of Technology — December 2024",
+  "ask_me_about": ["web application security", "incident triage", "virtualisation", "privacy-focused products"],
   "fun_fact":  "I automate the boring stuff, then automate the automation."
 }
 ```
 
 <br clear="right" />
+
+I lead security operations at NAB, coordinating incident triage, escalation, and resolution. My earlier work at Web Alive covered web application testing with Burp Suite Pro, Nessus vulnerability scans, API testing, and Linux infrastructure.
+
+I also founded [Yarra Secure](https://www.yarrasecure.com.au), helping Australian small businesses with practical security reviews, email and invoice-fraud controls, staff training, and secure technology setup. I'm open to cybersecurity roles in security operations, incident response, or vulnerability assessment.
+
+| Experience | Dates | Location |
+| --- | --- | --- |
+| SOC Team Leader · NAB SOC | October 2025–Present | Docklands, VIC |
+| Founder · Yarra Secure | October 2025–Present | Melbourne, VIC |
+| Cyber Security Analyst · Web Alive | June 2025–October 2025 | South Yarra, VIC |
+| Security Operations Centre Operator · NAB SOC | February 2024–October 2025 | Docklands, VIC |
+
+[Full experience and resume](https://shubhamsingla.tech/resume) · [About me](https://shubhamsingla.tech/about)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="line" />
@@ -46,27 +61,29 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,java,bash,c&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,swift,html,css&theme=dark" alt="JavaScript, TypeScript, Swift, HTML, CSS" />
 
 **Frameworks &amp; Libraries**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,flask,django,bootstrap&theme=dark" alt="frameworks" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="React, Next.js, Tailwind CSS" />
 
-**Data / ML**
+SwiftUI · React Native / Expo · CloudKit
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda&theme=dark" alt="ml" />
+**Data &amp; Testing**
+
+<img src="https://skillicons.dev/icons?i=postgres,prisma&theme=dark" alt="PostgreSQL, Prisma" />
+
+Vitest · Postman · Xcode Cloud
 
 **Security, Cloud &amp; Tools**
 
-<img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github,aws,mysql,mongodb,vscode,figma&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=linux,kali,git,github&theme=dark" alt="Linux, Kali Linux, Git, GitHub" />
+
+Proxmox VE · XCP-ng · Rocky Linux 9
 
 <p>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=gnometerminal&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" />
-<img src="https://img.shields.io/badge/Wazuh-005C99?style=flat-square&logo=wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp%20Suite%20Pro-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite Pro" />
+<img src="https://img.shields.io/badge/Nessus-005C99?style=flat-square&logoColor=white" alt="Nessus" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="line" />
@@ -103,12 +120,17 @@
 
 ## `> ./featured_projects.sh`
 
+- **[ScamChecker](https://scamchecker.app)** — Scam analysis used by 1,000+ people, with an anonymous web scanner and iOS and Android apps. Explains the warning signs behind each risk verdict.
+- **[ForgeLift](https://shubhamsingla.tech/projects/forgelift)** — Workout and macro tracker available on iPhone and Android. Built for quick logging, local storage, and no app account requirement.
+- **[ConverterHub](https://converterhub.dev)** — Browser-based tools for JSON, timestamps, Base64, CSV, and everyday developer tasks. Conversion inputs are processed locally, with no account required.
+- **[Security Home Lab](https://shubhamsingla.tech/projects/homelab)** — An isolated Proxmox lab with Rocky Linux targets, Kali tooling, Nessus scan-remediate-rescan cycles, and snapshots for repeatable security exercises and Security+ study.
+
+[Project case studies](https://shubhamsingla.tech/projects)
+
 <div align="center">
 
-<a href="https://github.com/CyberShubhs/Personal_portfolio"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=CyberShubhs&repo=Personal_portfolio&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117&disable_animations=true" alt="portfolio repo" /></a>
-<a href="https://github.com/CyberShubhs/realestate_property_advisor"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=CyberShubhs&repo=realestate_property_advisor&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117&disable_animations=true" alt="real estate repo" /></a>
+<a href="https://github.com/CyberShubhs/portfolio"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=CyberShubhs&repo=portfolio&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117&disable_animations=true" alt="portfolio repo" /></a>
 <a href="https://github.com/CyberShubhs/copy-paste-converter-hub"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=CyberShubhs&repo=copy-paste-converter-hub&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117&disable_animations=true" alt="converter hub repo" /></a>
-<a href="https://github.com/CyberShubhs/Kahoot-Answer-Bot"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=CyberShubhs&repo=Kahoot-Answer-Bot&hide_border=true&title_color=00f7ff&icon_color=ff00e5&text_color=c9d1d9&bg_color=0d1117&disable_animations=true" alt="kahoot bot repo" /></a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="line" />
 
@@ -119,10 +141,14 @@
 <div align="center">
 
 <a href="https://shubhamsingla.tech/"><img src="https://img.shields.io/badge/Website-0f0c29?style=for-the-badge&logo=aboutdotme&logoColor=00f7ff" /></a>
-<a href="mailto:shubhamsingla2310@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:contact@shubhamsingla.tech"><img src="https://img.shields.io/badge/Email-contact%40shubhamsingla.tech-EA4335?style=for-the-badge&logoColor=white" alt="Email contact@shubhamsingla.tech" /></a>
+<a href="https://www.linkedin.com/in/shubham-singla-cyber-enthusiast/"><img src="https://img.shields.io/badge/LinkedIn-Shubham%20Singla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+<a href="https://www.yarrasecure.com.au"><img src="https://img.shields.io/badge/Founder-Yarra%20Secure-005C99?style=for-the-badge" alt="Founder of Yarra Secure" /></a>
 <a href="https://github.com/CyberShubhs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br /><br />
+
+Melbourne, VIC, Australia · contact@shubhamsingla.tech · +61 416 168 258
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
 
