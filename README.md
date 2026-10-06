@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:5f2c82,100:00f7ff&height=210&section=header&text=Shubham%20Singla&fontSize=58&fontColor=ffffff&fontAlignY=34&desc=SOC%20Team%20Leader%20%C2%B7%20Cybersecurity%20Professional&descAlignY=54&descSize=18" width="100%" alt="Shubham Singla — SOC Team Leader and Cybersecurity Professional" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:5f2c82,100:00f7ff&height=210&section=header&text=Shubham%20Singla&fontSize=58&fontColor=ffffff&fontAlignY=34&desc=Security%20Operations%20Centre%20Operator%20%C2%B7%20Cybersecurity%20Professional&descAlignY=54&descSize=15" width="100%" alt="Shubham Singla — Security Operations Centre Operator and Cybersecurity Professional" />
 
 <a href="https://shubhamsingla.tech/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=%24+whoami;SOC+Team+Leader+at+NAB;Founder%2C+Yarra+Secure;Building+ScamChecker+%26+ForgeLift;Studying+for+CompTIA+Security%2B;Based+in+Melbourne%2C+Australia" alt="SOC Team Leader at NAB, Founder of Yarra Secure, and builder of security and mobile products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=%24+whoami;SOC+Operator+at+NAB;Founder%2C+Yarra+Secure;Building+ScamChecker+%26+ForgeLift;Studying+for+CompTIA+Security%2B;Based+in+Melbourne%2C+Australia" alt="SOC Operator at NAB, Founder of Yarra Secure, and builder of security and mobile products" />
 </a>
 
 <p>
@@ -26,7 +26,7 @@
   "also_known_as": ["Sam Singla", "CyberShubhs"],
   "location":  "Melbourne, VIC, Australia",
   "focus":     ["Security Operations", "Incident Response", "Vulnerability Assessment"],
-  "day_job":   "SOC Team Leader at NAB",
+  "day_job":   "SOC Operator at NAB",
   "founder":   "Yarra Secure",
   "building":  ["ScamChecker", "ForgeLift", "ConverterHub"],
   "learning":  "CompTIA Security+ (SY0-701) — in progress",
@@ -38,16 +38,15 @@
 
 <br clear="right" />
 
-I lead security operations at NAB, coordinating incident triage, escalation, and resolution. My earlier work at Web Alive covered web application testing with Burp Suite Pro, Nessus vulnerability scans, API testing, and Linux infrastructure.
+I work in security operations at NAB, responding to security incidents, actioning client tickets, and supporting security systems. My earlier work at Web Alive covered web application testing with Burp Suite Pro, Nessus vulnerability scans, API testing, and Linux infrastructure.
 
 I also founded [Yarra Secure](https://www.yarrasecure.com.au), helping Australian small businesses with practical security reviews, email and invoice-fraud controls, staff training, and secure technology setup. I'm open to cybersecurity roles in security operations, incident response, or vulnerability assessment.
 
 | Experience | Dates | Location |
 | --- | --- | --- |
-| SOC Team Leader · NAB SOC | October 2025–Present | Docklands, VIC |
+| Security Operations Centre Operator · NAB SOC | February 2024–Present | Docklands, VIC |
 | Founder · Yarra Secure | October 2025–Present | Melbourne, VIC |
 | Cyber Security Analyst · Web Alive | June 2025–October 2025 | South Yarra, VIC |
-| Security Operations Centre Operator · NAB SOC | February 2024–October 2025 | Docklands, VIC |
 
 [Full experience and resume](https://shubhamsingla.tech/resume) · [About me](https://shubhamsingla.tech/about)
 
